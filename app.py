@@ -303,4 +303,6 @@ with col2:
         st.table(st.session_state["history"])
 
 st.divider()
+
 st.caption("Prototype note: Governance outputs are deterministic and auditable; model responses are optional.")
+st.markdown("Source code: https://github.com/armstrongm360/ai-governance-advisor")
