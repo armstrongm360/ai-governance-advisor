@@ -1,0 +1,30 @@
+[
+  {
+    "use_case": "An AI writing feedback assistant for multilingual students that comments on clarity, organization, and grammar using student draft submissions.",
+    "data_inputs": "Student writing drafts, course name, instructor comments, possibly student email."
+  },
+  {
+  "use_case": "AI generates example quiz questions from textbook content. No student data used.",
+  "data_inputs": "textbook chapter text"
+},
+{
+  "use_case": "AI proctoring that flags suspicious behavior and generates cheating risk scores during exams. The system recommends whether to open a misconduct case.",
+  "data_inputs": "webcam video, keystrokes, browser activity, student id number, proctor notes"
+},
+{
+  "use_case": "AI ranks applicants for admissions and automatically rejects the bottom quartile using historical student success patterns.",
+  "data_inputs": "GPA, test scores, zip code, school district, first-generation status, applicant email address"
+},
+{
+  "use_case": "AI provides rubric-aligned scoring suggestions for essays. Instructor reviews, but the AI generates a recommended grade and highlights deficiencies.",
+  "data_inputs": "student essays, rubric, score, grade history"
+},
+{
+  "use_case": "AI chatbot answers student financial aid questions.",
+  "data_inputs": "student questions, financial aid policy documents"
+},
+{
+  "use_case": "AI predicts which students are likely to drop out and alerts advisors.",
+  "data_inputs": "attendance records, GPA, demographic data"
+}
+]

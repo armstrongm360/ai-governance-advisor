@@ -1,0 +1,6 @@
+timestamp,domain,automation_level,risk_tier,sensitive_flags,system_owner,requester_role
+2026-02-20T18:32:44.868013,Instruction,Assist (suggestions),MEDIUM,contact,Academic Affairs,Faculty
+2026-02-20T18:32:47.876676,Instruction,Assist (suggestions),LOW,,Academic Affairs,Faculty
+2026-02-20T18:32:51.449259,Instruction,Assist (suggestions),HIGH,student_id,Academic Affairs,Faculty
+2026-02-20T18:32:54.074990,Instruction,Assist (suggestions),MEDIUM,"grades,contact",Academic Affairs,Faculty
+2026-02-20T18:32:56.562063,Instruction,Assist (suggestions),MEDIUM,grades,Academic Affairs,Faculty
