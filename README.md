@@ -12,6 +12,23 @@ This system translates institutional governance principles into executable workf
 
 ---
 
+## Live Demonstration
+
+A live deployment of the AI Governance Advisor is available here:
+
+https://aigovernanceadvisor-xlyzcym7mrc2c9ukutn79t.streamlit.app/
+
+This interactive prototype allows users to:
+
+- classify AI use cases by institutional risk level  
+- view required governance controls  
+- generate audit logs  
+- generate formal governance decision memos  
+
+This deployment demonstrates how institutional AI governance can be operationalized as a working system.
+
+---
+
 ## Institutional Problem
 
 Artificial intelligence is rapidly being deployed across institutional functions, including:
@@ -151,3 +168,4 @@ AI Governance and Digital Learning Systems Portfolio
 This prototype demonstrates the practical implementation of institutional artificial intelligence governance architecture.
 
 It forms part of a broader director-level portfolio focused on AI governance, institutional risk management, and digital learning systems design.
+
